@@ -1,6 +1,6 @@
-import Node from "./node";
+import Node from "./node.js";
 
-class linkedLists{
+class LinkedLists{
     constructor(){
         this.listHead = null;
     }
